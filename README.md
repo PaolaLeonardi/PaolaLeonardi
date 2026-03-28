@@ -6,7 +6,7 @@
 
 ### 👩‍💻 &nbsp;About Me
 🎓 &nbsp;I am a Computer Science student at PUCPR (Pontifícia univercidade católica do Paraná - Pontifical Catholic University of Paraná)
-🎨 &nbsp;I also work with design! My Behance profile is: paolaleonardi
+🎨 &nbsp;I also work with design! My Behance profile is: paolaleonardi! ✏️
 
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -26,7 +26,7 @@
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)&nbsp;
 
 ## ✉️ &nbsp; You can shoot me an email at paolaleonardiruvinski@gmail.com! 
-I'll try to respond as soon as I can! <3
+I'll try to respond as soon as I can! <3 ✏️
 
 <!--<p align="center">
 <a href="https://github.com/paola-leonardi">
