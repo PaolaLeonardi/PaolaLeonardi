@@ -5,7 +5,7 @@
 <img alt="Girl coding" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gif" align="right"/> <!-- ## ART BY: aranhaqg - tumblr !-->
 
 
-### 🎓 &nbsp;I am a Computer Science student at PUCPR 
+🎓 &nbsp;I am a Computer Science student at PUCPR 
 (Pontifical Catholic University of Paraná) ✏️
 
 ### 🛠 &nbsp;Tech Stack
