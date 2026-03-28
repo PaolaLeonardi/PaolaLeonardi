@@ -6,7 +6,6 @@
 
 ### 👩‍💻 &nbsp;About Me
 🎓 &nbsp;I am a Computer Science student at PUCPR (Pontifícia univercidade católica do Paraná - Pontifical Catholic University of Paraná)
-###
 🎨 &nbsp;I also work with design! My Behance profile is: paolaleonardi
 
 ### 🛠 &nbsp;Tech Stack
