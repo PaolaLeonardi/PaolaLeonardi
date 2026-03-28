@@ -6,9 +6,8 @@
 
 ### 👩‍💻 &nbsp;About Me
 🎓 &nbsp;I am a Computer Science student at PUCPR (Pontifícia univercidade católica do Paraná - Pontifical Catholic University of Paraná)
+###
 🎨 &nbsp;I also work with design! My Behance profile is: paolaleonardi
-I am a Computer Science student at PUCPR (Pontifical Catholic University of Paraná)
-<img alt="autismn" src="./assets/autism.png" width='20'/> &nbsp;I also received a diagnosis of level 1 autism and high abilities. Interesting, isn't it?
 
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
