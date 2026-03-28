@@ -2,7 +2,7 @@
 <img alt="Hand waving" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello! I'm Paola!</h2>
 [![No AI](https://custom-icon-badges.demolab.com/badge/No%20AI-2f2f2f?logo=non-ai&logoColor=white)](#)&nbsp;
 
-<img alt="Girl coding" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gif" align="right"/>  <!-- ## Só vou dar uma testada e coloco uma imagem autoral! essa é by: aranhaqg !-->
+<img alt="Gatinho" src="[https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gif]" align="right"/>  <!-- ## ART BY: @tofupixel - tumblr !-->
 
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
