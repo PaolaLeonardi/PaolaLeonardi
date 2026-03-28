@@ -6,7 +6,7 @@
 
 ### 👩‍💻 &nbsp;About Me
 🎓 &nbsp;I am a Computer Science student at PUCPR 
-(Pontifícia universidade católica do Paraná - Pontifical Catholic University of Paraná) ✏️
+### (Pontifícia universidade católica do Paraná - Pontifical Catholic University of Paraná) ✏️
 
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
