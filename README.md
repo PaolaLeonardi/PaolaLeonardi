@@ -4,6 +4,12 @@
 
 <img alt="Girl coding" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gif" align="right"/> <!-- ## ART BY: aranhaqg - tumblr !-->
 
+### 👩‍💻 &nbsp;About Me
+🎓 &nbsp;I am a Computer Science student at PUCPR (Pontifícia univercidade católica do Paraná - Pontifical Catholic University of Paraná)
+🎨 &nbsp;I also work with design! My Behance profile is: paolaleonardi
+I am a Computer Science student at PUCPR (Pontifical Catholic University of Paraná)
+<img alt="autismn" src="./assets/autism.png" width='20'/> &nbsp;I also received a diagnosis of level 1 autism and high abilities. Interesting, isn't it?
+
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
