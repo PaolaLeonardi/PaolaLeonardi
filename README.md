@@ -26,7 +26,7 @@
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)&nbsp;
 
 ## ✉️ &nbsp; You can shoot me an email at paolaleonardiruvinski@gmail.com! 
-I'll try to respond as soon as I can! <3 ✏️
+I'll try to respond as soon as I can! <3 ✨
 
 <!--<p align="center">
 <a href="https://github.com/paola-leonardi">
