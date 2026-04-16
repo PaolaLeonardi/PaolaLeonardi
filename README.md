@@ -6,7 +6,7 @@
 
 
 ### 🎓 &nbsp;I am a Computer Science student at PUCPR 
-### (Pontifical Catholic University of Paraná) ✏️
+### (Pontifical Catholic University of Paraná) 
 
 ### 🛠 &nbsp;Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -25,8 +25,8 @@
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)&nbsp;
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)&nbsp;
 
-## ✉️ &nbsp; You can shoot me an email at paolaleonardiruvinski@gmail.com! 
-I'll try to respond as soon as I can! <3 ✨
+<!--## ✉️ &nbsp; You can shoot me an email at paolaleonardiruvinski@gmail.com! 
+I'll try to respond as soon as I can! <3 ✨>
 
 <!--<p align="center">
 <a href="https://github.com/paola-leonardi">
