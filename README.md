@@ -1,6 +1,6 @@
 <!--[![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](#)&nbsp; !-->
 <img alt="Hand waving" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello! I'm Paola!</h2>
-[![No AI](https://custom-icon-badges.demolab.com/badge/No%20AI-2f2f2f?logo=non-ai&logoColor=white)](#)&nbsp;
+<!--[![No AI](https://custom-icon-badges.demolab.com/badge/No%20AI-2f2f2f?logo=non-ai&logoColor=white)](#)&nbsp;-->
 
 <img alt="Girl coding" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gif" align="right"/> <!-- ## ART BY: aranhaqg - tumblr !-->
 
@@ -26,7 +26,7 @@
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](#)&nbsp;
 
 <!--## ✉️ &nbsp; You can shoot me an email at paolaleonardiruvinski@gmail.com! 
-I'll try to respond as soon as I can! <3 ✨>
+I'll try to respond as soon as I can! <3 ✨-->
 
 <!--<p align="center">
 <a href="https://github.com/paola-leonardi">
