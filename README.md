@@ -1,5 +1,5 @@
 <!--[![ReadMe](https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff)](#)&nbsp; !-->
-<img alt="Hand waving" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hello! I'm Paola!</h2>
+<h2>Hello! I'm Paola!</h2>
 <!--[![No AI](https://custom-icon-badges.demolab.com/badge/No%20AI-2f2f2f?logo=non-ai&logoColor=white)](#)&nbsp;-->
 
 <img alt="Girl coding" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gif" align="right"/> <!-- ## ART BY: aranhaqg - tumblr !-->
@@ -17,6 +17,7 @@
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 
 [![Behance](https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)&nbsp;
