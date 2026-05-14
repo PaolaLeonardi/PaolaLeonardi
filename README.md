@@ -4,7 +4,6 @@
 
 <img alt="Girl coding" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gif" align="right"/> <!-- ## ART BY: aranhaqg - tumblr !-->
 
-
 ### 🎓 &nbsp;I am a Computer Science student at: 
 ### Pontifical Catholic University of Paraná
 
@@ -18,6 +17,8 @@
 <!--[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)&nbsp;-->
 <!--[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)-->
 
+<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaolaLeonardi&layout=compact&langs_count=8&theme=radical" align="right"/>
+
 *Back-ending:*<br>
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)&nbsp;
 
@@ -28,6 +29,7 @@
 [![Behance](https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white)](#)
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](#)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
+
 
 <!--## ✉️ &nbsp; You can shoot me an email at paolaleonardiruvinski@gmail.com! 
 I'll try to respond as soon as I can! <3 ✨-->
