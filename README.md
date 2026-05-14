@@ -20,7 +20,7 @@
 *Back-ending:*<br>
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)&nbsp;
 
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaolaLeonardi&layout=compact&langs_count=8&theme=radical" align="right"/>
+<img height="129em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaolaLeonardi&layout=compact&langs_count=8&theme=radical" align="right"/>
 
 *Tools:*<br>
 ![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=visualstudiocode&logoColor=white)&nbsp;
