@@ -25,7 +25,6 @@ Computer Science student at
 ![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)&nbsp;<br>
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)&nbsp;
 <img height="129em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PaolaLeonardi&layout=compact&langs_count=8&theme=radical" align="right"/>
-
 ![Behance](https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 
