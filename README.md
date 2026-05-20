@@ -8,16 +8,14 @@ Computer Science student at
 <b>Pontifical Catholic University of Paraná (PUCPR)</b>
 </p>
 
-### 🛠 &nbsp;*Tech Stack* 
+<br>
+
 *Front-Ending*<br>
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
 
 *Back-ending*<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)&nbsp;
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 
 *Tools and Design*<br> 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -30,6 +28,11 @@ Computer Science student at
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)&nbsp;
 ![Behance](https://img.shields.io/badge/Behance-0054F7?logo=behance&logoColor=white)&nbsp;
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
+
+*Learning*<br> 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 
 ---
 <!--## ✉️ &nbsp; You can shoot me an email at paolaleonardiruvinski@gmail.com! 
